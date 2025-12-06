@@ -2150,13 +2150,13 @@ Un catálogo de datos es conforme con DCAT-AP-ES cuando:
 
 4. **Federación**: Es capaz de compartir sus metadatos con el [catálogo nacional](https://datos.gob.es/) a través de alguno de los mecanismos de federación soportados.
 
-5. **Consistencia y validación**: Todos los recursos del catálogo cumplen con los requisitos estructurales y semánticos del [modelo DCAT-AP-ES](/#dcat-ap-es-model), y pueden ser [validados utilizando las formas SHACL previstas](/validación).
+5. **Consistencia y validación**: Todos los recursos del catálogo cumplen con los requisitos estructurales y semánticos del [modelo DCAT-AP-ES](/#dcat-ap-es-model), y pueden ser [validados utilizando las formas SHACL previstas](/validation).
 
 6. **Metadatos de alto valor (HVD)**: Para los conjuntos de datos de alto valor (HVD), el catálogo proporciona todos los [metadatos adicionales obligatorios según la normativa HVD](##dcat-ap-es-hvd), incluyendo la legislación aplicable y la categoría HVD correspondiente.
 
 7. **Recursos accesibles**: Todas las distribuciones referenciadas en el catálogo son accesibles a través de las URLs proporcionadas, o se indica claramente cuando no lo son mediante las propiedades de disponibilidad y estado apropiadas.
 
-# Anexo 1. Cambios del modelo DCAT-AP-ES respecto del modelo NTI-RISP (2013) {#annex-1-nti-risp-to-dcat-ap-es}
+#  1. Cambios del modelo DCAT-AP-ES respecto del modelo NTI-RISP (2013) {#annex-1-nti-risp-to-dcat-ap-es}
 
 A continuación, se detalla la relación de cambios y actualizaciones en los metadatos del modelo DCAT-AP-ES respecto al [modelo de metadatos NTI-RISP (2013)](https://datosgobes.github.io/NTI-RISP), así como la relación de metadatos que han sido deprecados.
 
